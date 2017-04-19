@@ -1,0 +1,43 @@
+#contenedor{
+  width: 650px;
+  margin: 0 auto;
+  font-family:courier;
+  font-weight:bold;
+}
+#line{
+  width: 15%;
+  float:left;
+  left:0px;
+  top:0px;
+  margin-bottom:20px;
+  height: 7px;
+  background-color: black;
+}
+.invisible{
+  clear: both;
+  margin-bottom: 2%;
+}
+.title{
+  font-family:courier;
+  font-weight:bold;
+  color:black;
+}
+.base{
+	width:180px;
+	height:180px;
+	float:left;
+	margin-right:20px;
+	background-color:#000;
+	position:relative;
+	text-shadow:1px 2px #000; 
+}
+.base span{
+	color:white;
+	font-size:.8em;
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	
+}
+	
+	
